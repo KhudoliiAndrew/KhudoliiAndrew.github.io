@@ -18,3 +18,22 @@
   margin: 0 auto;
   padding: 0px;
 }
+#myInput{
+  border: none;
+  text-align: right;
+}
+.coppyButton{
+  border:none;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    color: #454ADE;
+    border-color:#454ADE;
+    width: 24 px;
+    height:  24 px;
+    text-align: center; }
+    /*.coppyButton:hover {
+      background-color: #FF4500; /*animation color*/
+      /*border-color: #FF4500;
+      color: white; }*/
+}

@@ -24,5 +24,19 @@ function changeLanguage(){
   document.querySelector('.bttn').innerHTML = langArr['bttn'][hash];
   document.querySelector('.firstAdd').innerHTML = langArr['firstAdd'][hash];
   document.querySelector('.firstAddDescription').innerHTML = langArr['firstAddDescription'][hash];
+  document.querySelector('.SecondAdd').innerHTML = langArr['SecondAdd'][hash];
+  document.querySelector('.secondAddDescription').innerHTML = langArr['secondAddDescription'][hash];
+  document.querySelector('.ThirdAdd').innerHTML = langArr['ThirdAdd'][hash];
+  document.querySelector('.thirdAddDescription').innerHTML = langArr['thirdAddDescription'][hash];
+  document.querySelector('.fourthAdd').innerHTML = langArr['fourthAdd'][hash];
+  document.querySelector('.fourthAddDescription').innerHTML = langArr['fourthAddDescription'][hash];
+  document.querySelector('.fiveAdd').innerHTML = langArr['fiveAdd'][hash];
+  document.querySelector('.fiveAddDescription').innerHTML = langArr['fiveAddDescription'][hash];
+  document.querySelector('.sixAdd').innerHTML = langArr['sixAdd'][hash];
+  document.querySelector('.sixAddDescription').innerHTML = langArr['sixAddDescription'][hash];
+  document.querySelector('.IconCreator').innerHTML = langArr['IconCreator'][hash];
+  document.querySelector('.Developer').innerHTML = langArr['Developer'][hash];
+  document.querySelector('.Sitecreator').innerHTML = langArr['Sitecreator'][hash];
+  
 }
 changeLanguage();
