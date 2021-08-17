@@ -1,8 +1,8 @@
 const langArr = {
 	"name":{
-		"ua": "планувальник задач",
-		"ru": "планировщик задач",
-		"en": "task planner",
+		"ua": "Задачі роблять брр",
+		"ru": "Почему задачи делают брр",
+		"en": "Tasks go brr",
 	},
 	"description":{
 		"ua": "Нііііііііі!!! Ти не можеш зробити свій день більш продуктивним просто плануючи завдання на день!!!!!!!  хаха Завдання роблять брр",
@@ -10,7 +10,7 @@ const langArr = {
 		"en": "NOOOOOO!!! You can’t make your day more productive by just managing tasks for a day!!!!!!!  haha Tasks go brr",
 	},
 	"btn-large":{
-		"ua": "Завантажити на Андройд",
+		"ua": "Завантажити на Андроїд",
 		"ru": "Скачать на Андроид",
 		"en":"Download for Android",
 	},
