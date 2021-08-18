@@ -183,7 +183,7 @@ ul li {
   display: none;
   height: 44px;
   overflow: hidden;
-  position: fixed;
+  position: absolute;
   right: 5%;
   text-indent: 100%;
   top: 32px;
@@ -308,7 +308,7 @@ ul li {
 .banner {
   background-size:cover;
   position:relative;
-  height:100vh;
+  min-height: 100vh;
   max-width: 100%; }
 
 .banner-text {
